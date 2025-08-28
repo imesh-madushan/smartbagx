@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "408124026921",
+    "firebase_url": "https://smartbag-94038-default-rtdb.firebaseio.com",
+    "project_id": "smartbag-94038",
+    "storage_bucket": "smartbag-94038.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408124026921:android:93b78966357ac188e7ec38",
+        "android_client_info": {
+          "package_name": "com.example.smartbagx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408124026921-c2krpu7o1vac0abnb8pugcf9r6dt6e9i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartbagx",
+            "certificate_hash": "690d02f28caee9f22276fc2e398f57c261571be6"
+          }
+        },
+        {
+          "client_id": "408124026921-06kvkvgteevdn5nvfnm0htrd1mjbe9f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_8DXXFvr7_YYaZ1h2ABT5TCNNYMK64tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408124026921-06kvkvgteevdn5nvfnm0htrd1mjbe9f1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "408124026921-7o0te23rnhfhof6ee4aie0ts16tkoodb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartbagx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
